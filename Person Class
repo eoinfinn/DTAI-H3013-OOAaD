@@ -1,0 +1,10 @@
+Person Class
+GivenName: String
+FamilyName: String
+Known: String
+BirthDate: Date
+DeathDate: Date
+Nationality: Boolean
+Ethnicity: Boolean
+Sex: Boolean
+HairColour: Boolean
