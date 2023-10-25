@@ -1,6 +1,4 @@
-/**
-<<<<<<< HEAD
-Eoin Finnerty <br>
+/** Eoin Finnerty <br>
 Wednesday 20231025 1035 <br>
 HelloWorld <br>
 Sample to demonstrate basic java concepts
