@@ -1,6 +1,6 @@
 /**
-Mark Deegan <br>
-20231019 1200 <br>
+Eoin Finnerty<br>
+20231025 1035 <br>
 HelloWorld <br>
 Sample to demonstrate basic java concepts
 */
