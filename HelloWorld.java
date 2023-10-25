@@ -1,6 +1,6 @@
 /**
 Mark Deegan <br>
-20231019 1200 <br>
+Wednesday 20231019 1200 <br>
 HelloWorld <br>
 Sample to demonstrate basic java concepts
 */
