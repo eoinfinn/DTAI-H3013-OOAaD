@@ -1,11 +1,5 @@
-/**
-<<<<<<< HEAD
-Eoin Finnerty <br>
+/** Eoin Finnerty <br>
 Wednesday 20231025 1035 <br>
-=======
-Eoin Finnerty<br>
-20231025 1035 <br>
->>>>>>> 8b88c9920c04cb8040be2612c2ef8c74122da63d
 HelloWorld <br>
 Sample to demonstrate basic java concepts
 */
