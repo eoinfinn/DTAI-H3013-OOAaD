@@ -1,6 +1,6 @@
 /**
-Mark Deegan <br>
-Wednesday 20231019 1200 <br>
+Eoin Finnerty <br>
+Wednesday 20231025 1035 <br>
 HelloWorld <br>
 Sample to demonstrate basic java concepts
 */
