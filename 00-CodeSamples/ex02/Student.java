@@ -1,6 +1,5 @@
-/** 
-Mark Deegan <br>
-20231025 1639 <br>
+/** Eoin Finnerty <br>
+Wednesday 20231108 1142 <br>
 Studebnt class <br>
 Sample code to demonstrate class declaration and inheritance (extending classes) <br>
 */
@@ -11,7 +10,7 @@ public class Student extends Person
 		System.out.println("Hello, I am a Student!"); // print a simple message
 	} // end declaration of the main method
 
-	public Student() 
+	public Student()
 	{ // begin declaration of no parameters constructor
 		System.out.println("The no parameters construcor for class Student has been called.");
 	}
