@@ -1,5 +1,8 @@
+/** Eoin Finnerty <br>
+Wednesday 20231108 1142 <br>
+*/
 public class CollegeCourse
-{	
+{
 	public static void main(String[] args)
 	{
 		Student Shalom = new Student();
@@ -10,5 +13,5 @@ public class CollegeCourse
 			System.out.println("The object is: "+Armand+"\n\n");
 
 		Lecturer Mark = new Lecturer();
-	}	
+	}
 }

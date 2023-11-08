@@ -1,6 +1,5 @@
-/** 
-Mark Deegan <br>
-20231025 1639 <br>
+/** Eoin Finnerty <br>
+Wednesday 20231108 1142 <br>
 Person class <br>
 Sample code to demonstrate class declaration and inheritance (extending classes) <br>
 */
